@@ -1,6 +1,6 @@
 No, I wasn't drunk when I wrote it.
 
-And I wanted to write a working interpreter as fast as possible. My preparation was limited to watching an 30 min YouTube video. This project took me ~2-3 hours.
+And I wanted to write a working interpreter as fast as possible. My preparation was limited to watching a 30 min YouTube video about lisp. This project took me ~2-3 hours.
  
  YES, THE CODE IS COMPLETE SHIT, I KNOW IT.
  
