@@ -26,4 +26,7 @@ final class FullListNode implements ListNode
 	{
 		return '(' . $this->car . ' ' . ($this->cdr instanceof FullListNode ? $this->cdr->car . ' ' . $this->cdr->cdr : $this->cdr) . ')';
 	}
+
+	public function car() { return $this->car; }
+	public function cdr() { return $this->cdr; }
 }

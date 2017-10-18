@@ -20,4 +20,9 @@ final class IntegerNode
 	{
 		return (string)$this->value;
 	}
+
+	public function value() : int
+	{
+		return $this->value;
+	}
 }

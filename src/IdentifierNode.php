@@ -20,4 +20,9 @@ final class IdentifierNode
 	{
 		return $this->name;
 	}
+
+	public function name(): string
+	{
+		return $this->name;
+	}
 }
